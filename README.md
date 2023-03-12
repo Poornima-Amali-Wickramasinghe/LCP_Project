@@ -11,7 +11,7 @@ The project is divided in two part: the visualization that can be found in the G
 <p>In the end we have some utility functions that we used in both files in the script support.py. A dictionary with some import figures as well as a function to store the information can be found in organism.py</p>
 
 <br><br>
-Project by:<br>
+Projected by:<br>
 Manfredi Miranda 2086517<br>
 Mahdy Vatankhahan 2072069<br>
 Poornima Amali Wickramasinghe Wickramasinghe Mudiyanselage 2088370<br>
