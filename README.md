@@ -9,3 +9,9 @@ In the Game.ipynb file we have implemented a pygame simulation that show the int
 In the STATISTICAL.ipynb file we show the result of different simulation that is stored in the Data folder
 
 In the end we have some utility functions that we used in both files in the script support.py. A dictionary with some import figures as well as a function to store the information can be found in organism.py
+
+
+Project by
+Manfredi Miranda 2086517
+Mahdy Vatankhahan 2072069
+Poornima Amali Wickramasinghe Wickramasinghe Mudiyanselage 2088370
