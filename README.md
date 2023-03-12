@@ -12,6 +12,6 @@ In the end we have some utility functions that we used in both files in the scri
 
 
 Project by:
-  -Manfredi Miranda 2086517
-  -Mahdy Vatankhahan 2072069
-  -Poornima Amali Wickramasinghe Wickramasinghe Mudiyanselage 2088370
+<p>Manfredi Miranda 2086517</p>
+<p>Mahdy Vatankhahan 2072069</p>
+<p>Poornima Amali Wickramasinghe Wickramasinghe Mudiyanselage 2088370</p>
